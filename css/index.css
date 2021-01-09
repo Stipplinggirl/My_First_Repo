@@ -1,0 +1,35 @@
+nav {
+  height: 50px;
+  background-color: rgb(228, 228, 228);
+}
+.inline-block {
+  padding: 15px;
+  display: inline-block;
+}
+.block_element {
+  display: inline-block;
+}
+.left {
+  float: left;
+  height: 2000;
+  background-color: lightblue;
+  width: 30%;
+  text-align: left;
+}
+.right {
+  float: left;
+  background-color: rgb(202, 202, 202);
+  height: 2000;
+  width: 70%;
+  text-align: center;
+}
+
+.card {
+  display: inline-block;
+  background-color: #a7a7a7;
+  border-radius: 5px;
+  height: 200px;
+  width: 150px;
+  margin: 35px;
+  margin-top: 50px;
+}
